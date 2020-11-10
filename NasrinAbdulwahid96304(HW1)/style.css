@@ -1,0 +1,22 @@
+.main{
+    width: 450px;
+    margin: 30px auto;
+    background-color: #cccccc;
+}
+.lable{
+    width: 150px;
+    height: 25px;
+    line-height: 25px;
+    font-family: verdana;
+    font-size: 12px;
+    text-align: right;
+}
+.frmelement{
+    text-align: left;
+    width: 300px;
+}
+.frmbtn{
+    width: 450px;
+    text-align: center;
+    height: 50px;
+}
